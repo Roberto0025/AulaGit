@@ -1,0 +1,4 @@
+senhas
+teste de git ignore
+novamente
+de novo
